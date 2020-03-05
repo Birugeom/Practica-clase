@@ -42,6 +42,10 @@ public class minicalculadora {
         return sqrt(x);
     }
     
+    public String holaFoco(){
+        return "Hola foco c:";
+    }
+    
     public static void main(String[] args){
         // Llamamos a los metodos con un valor
         double x= 7;
